@@ -1,2 +1,4 @@
 # VolunteerPembuatanAplikasi
-Repository ini digunakna untuk keperluan course Dicoding
+Repository ini digunakan untuk keperluan course Dicoding
+
+* Nama Lengkap, [ez.or.id](https://ez.or.id).
